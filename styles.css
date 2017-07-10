@@ -1,0 +1,257 @@
+body {
+	position: relative;
+}
+
+h1 {
+	
+color : blue;
+
+}
+
+h2 {
+
+	color : red;
+
+}
+
+h3 {
+
+	color : green;
+
+}
+
+.Hi {
+	
+	font-size: 30px;
+
+}
+
+#hi {
+
+	font-family: "Arial";
+
+text-align : center;
+
+}
+
+p {
+
+	text-align : center;
+}
+
+#katz {
+
+	text-align : center;
+
+}
+
+#Gogle {
+
+height : 50px; 
+
+
+}
+
+#facebooc {
+
+height : 50px;
+
+float : right;
+
+}
+
+#top {
+
+width : 100%;
+height :  50px;
+background-image: url("http://vignette2.wikia.nocookie.net/playstationallstarsbattleroyale/images/c/c8/Nyan_cat_6120x2400_by_norbi9696-d4162a4.png/revision/latest?cb=20121222172531");
+background-size:contain;
+}
+
+#a {
+	position: absolute;
+	top: 600px;
+	left: 100px;
+}
+
+#b {
+
+	position: absolute;
+	top: 250px;
+	left: 300px;
+	z-index: 1;
+}
+
+#c {
+
+	position:absolute;
+	top: 345px;
+	left: 123px;
+	z-index: 1;
+}
+
+#d {
+
+	position: absolute;
+	top: 749px;
+	left: 859px;
+	z-index: 1;
+
+}
+
+#e {
+
+	position: absolute;
+	top: 982px;
+	left: 624px;
+	z-index: 1;
+}
+
+#f{
+	position: absolute;
+	top: 382px;
+	left: 902px;
+	z-index: 1;
+}
+
+#g{
+position: absolute;
+	top: 957px;
+	left: 967px;
+	z-index: 1;
+}
+
+#h{
+position: absolute;
+	top: 389px;
+	left: 103px;
+	z-index: 1;
+}
+
+#i{
+position: absolute;
+	top: 847px;
+	left: 642px;
+	z-index: 1;
+}
+
+#j{
+position: absolute;
+	top: 755px;
+	left: 435px;
+	z-index: 1;
+}
+
+#k{
+position: absolute;
+	top: 583px;
+	left: 146px;
+	z-index: 1;
+}
+
+
+#l{
+position: absolute;
+	top: 589px;
+	left: 46px;
+	z-index: 1;
+}
+
+
+#m{
+position: absolute;
+	top: 295px;
+	left: 246px;
+	z-index: 1;
+}
+
+#n{
+position: absolute;
+	top: 476px;
+	left: 465px;
+	z-index: 1;
+}
+
+#o{
+position: absolute;
+	top: 938px;
+	left: 978px;
+	z-index: 1;
+}
+
+#p{
+position: absolute;
+	top: 386px;
+	left:985px ;
+	z-index: 1;
+}
+
+#q{
+position: absolute;
+	top: 354px;
+	left: 978px;
+	z-index: 1;
+}
+
+#r{
+position: absolute;
+	top: 489px;
+	left: 385px;
+	z-index: ;
+}
+
+#s{
+position: absolute;
+	top: 1208px;
+	left: 1110px;
+	z-index: 1;
+}
+
+#t{
+position: absolute;
+	top: 1500px;
+	left: 1090px;
+	z-index: 1;
+}
+
+#u{
+position: absolute;
+	top: 1500px;
+	left: 1200px;
+	z-index: 1;
+}
+
+#v{
+position: absolute;
+	top: 1000px;
+	left: 1000px;
+	z-index: 1;
+}
+
+#w{
+position: absolute;
+	top: 921px;
+	left: 1300px;
+	z-index: 1;
+}
+
+#x{
+position: absolute;
+	top: 1276px;
+	left: 1056px;
+	z-index: 1;
+}
+
+#pic1 {
+
+display: block;
+margin: 0 auto;
+}
+
+#pic2 {
+
+
+display: block;
+margin: 0 auto;
+	
+}
